@@ -1,0 +1,7 @@
+python particles_import.py -i "P:\SteamLibrary\steamapps\common\Counter-Strike Source\cstrike" -e "P:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\surf_whatevermapyouredoing" -b cs2
+
+
+
+[DON'T COPY THIS]
+Make sure to change the both "'P:" to your computers drive letter! 
+[DON'T COPY THIS]
