@@ -1,4 +1,4 @@
-#checklist
+Checklist
 
 ▢ Open "check map for problems" and make sure all material and model errors are fixed 
 
@@ -25,3 +25,6 @@
 ▢ The map needs to have 32 CT spawns and 32 T spawns (make sure they are 16 units above the ground)
 
 ▢ Team_select and game_player_equip were added
+
+▢ Custom particles are using the correct texture
+
