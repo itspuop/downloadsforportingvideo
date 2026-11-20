@@ -1,0 +1,27 @@
+#checklist
+
+▢ Open "check map for problems" and make sure all material and model errors are fixed 
+
+▢ Make sure all props don't have a "modelscale" value in their object properties (will be towards the bottom in red)
+
+▢ Trigger multiples are named correctly
+
+▢ All trigger teleports (that don't have a info_teleport_destination inside of them) have their physics set to mesh
+
+▢ Lights, particles, and cubemaps are correct/adjusted on the 3dskybox
+
+▢ Test every surf ramp for ramp bugs
+
+▢ Filters are working correctly 
+
+▢ Skybox_occluder faces have player clips made 
+
+▢ All textures and animated textures look correct
+
+▢ Trigger mulitple/push/conveyor all work and give the correct amount of units 
+
+▢ Un-brush all brushes, pay attention to which are supposed to be solid and non-solid (like illusionary's) and set the meshes physics accordingly
+
+▢ The map needs to have 32 CT spawns and 32 T spawns (make sure they are 16 units above the ground)
+
+▢ Team_select and game_player_equip were added
